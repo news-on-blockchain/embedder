@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+pydantic
+langchain
+langchain-community
+ollama 
+chromadb-client
+python-dotenv
+uuid
+python-slugify 
